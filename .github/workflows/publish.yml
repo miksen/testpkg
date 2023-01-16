@@ -12,4 +12,4 @@ jobs:
   publish:
     uses: dart-lang/setup-dart/.github/workflows/publish.yml@v1
       environment: prod
-      working-directoru: local-path
+      working-directory: local-path
