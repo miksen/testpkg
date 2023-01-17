@@ -13,3 +13,7 @@
 ## 1.1.2
 
 - Fixed repo link
+
+## 1.1.5
+
+This is the one!
