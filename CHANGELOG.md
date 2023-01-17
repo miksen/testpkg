@@ -9,3 +9,7 @@
 ## 1.1.1
 
 - 1.1.1, 1% better than 1.0
+
+## 1.1.2
+
+- Fixed repo link
