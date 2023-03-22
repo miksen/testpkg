@@ -1,3 +1,7 @@
+## 2.0.0
+
+- Major upgrade, now requires Dart 3!
+
 ## 1.0.0
 
 - Initial version.
