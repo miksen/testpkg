@@ -4,7 +4,7 @@ version: 2.0.0
 repository: https://github.com/miksen/testpkg
 
 environment:
-  sdk: '>=3.0.0-348 <4.0.0'
+  sdk: '>=3.0.0-339 <4.0.0'
 
 # dependencies:
 #   path: ^1.8.0
